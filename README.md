@@ -1,4 +1,4 @@
-![Mern Stack Developer](https://media.licdn.com/dms/image/D5616AQHxagnUWkAl8w/profile-displaybackgroundimage-shrink_350_1400/0/1687244000351?e=1693440000&v=beta&t=_h96UmDvzRAJ4G46Tixyptq1ndoEvJlzrBprJm7hbgA)
+![Mern Stack Developer](https://i.ibb.co/nw2sTCj/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 ### Hi there 👋, I'm Rinku Ahamed
 #### Mern Stack Developer
 
