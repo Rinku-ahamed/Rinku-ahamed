@@ -1,5 +1,7 @@
 ![Mern Stack Developer](https://i.ibb.co/nw2sTCj/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 ### Hi there 👋, I'm Rinku Ahamed
+####Portfolio: [Visit Portfolio](https://rinku-ahamed.netlify.app/)
+
 #### Mern Stack Developer
 
 Hello there! I'm Rinku Ahamed, a highly passionate Front End Developer based in Kushtia, Bangladesh. I possess a diverse skill set in HTML5, CSS3, Bootstrap5, Tailwind CSS, JavaScript, React, Firebase, and REST API, enabling me to craft inclusive and user-friendly web applications that stand out from the crowd.
@@ -13,6 +15,7 @@ Skills:  HTML / CSS / TAILWIND CSS / JS / REACT / NEXT JS /
 - 👯 I’m looking to collaborate on Github 
 - 💬 Ask me about Front End Development 
 - ⚡ Fun fact: Play with code 
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Rinku-ahamed/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/rinku-ahamed//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/rinkuali64/)  
 
