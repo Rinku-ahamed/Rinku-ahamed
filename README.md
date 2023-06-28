@@ -1,6 +1,6 @@
 ![Mern Stack Developer](https://i.ibb.co/nw2sTCj/Navy-Blue-Geometric-Technology-Linked-In-Banner.png)
 ### Hi there 👋, I'm Rinku Ahamed
-####Portfolio: [Visit Portfolio](https://rinku-ahamed.netlify.app/)
+#### Portfolio: [Visit Portfolio Website](https://rinku-ahamed.netlify.app/)
 
 #### Mern Stack Developer
 
